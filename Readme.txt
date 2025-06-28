@@ -68,5 +68,7 @@ Credential for admin panel :
 Username: admin
 Password: Test@123
 
- [Click here to view the live project](http://localhost/ccms/ccms/)
+ 🌐 **Local Demo (only for your PC)**: [Click here to run locally](http://localhost/ccms/ccms/)
+
+
 
